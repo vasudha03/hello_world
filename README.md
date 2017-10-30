@@ -1,4 +1,4 @@
 # hello_world
 This is the first app repository
 Hello,
-Using Commit coomand
+Using Commit command
