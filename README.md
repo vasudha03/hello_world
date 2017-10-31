@@ -1,4 +1,4 @@
-# hello_world
-This is the first app repository
-Hello,
-Using Commit command
+# Hello_world
+This is first repository.
+In other words
+> pardon my french
